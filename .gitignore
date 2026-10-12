@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter / R
+.ipynb_checkpoints/
+.Rhistory
+.RData
+
+# Datasets (not included)
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
