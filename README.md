@@ -4,10 +4,10 @@ Projects from my BSc in Data Science at LUMSA University, Rome: NLP, big data wi
 
 | Project | Topic | Language / Tools |
 | --- | --- | --- |
-| [Fake News Detection](fake-news-detection/) | Bachelor's thesis: classifying political statements as real or fake | Python, scikit-learn, NLTK |
-| [E-commerce Sales Analysis](spark-ecommerce-analysis/) | Big Data course: orders by day, hour and department | PySpark, Spark SQL, Databricks |
-| [Twitter - Circular Economy](twitter-circular-economy/) | Text mining: frequent terms, sentiment, topics, hashtags | R (tm, quanteda, syuzhet, BTM) |
-| [Link Extractor](link-extractor/) | Script that lists the external links of a web page | Python, requests |
+| [Fake News Detection](fake-news-detection/fake_news_detection.ipynb) | Bachelor's thesis: classifying political statements as real or fake | Python, scikit-learn, NLTK |
+| [E-commerce Sales Analysis](spark-ecommerce-analysis/spark_ecommerce_analysis.ipynb) | Big Data course: orders by day, hour and department | PySpark, Spark SQL, Databricks |
+| [Twitter - Circular Economy](twitter-circular-economy/twitter_circular_economy.ipynb) | Text mining: frequent terms, sentiment, topics, hashtags | R (tm, quanteda, syuzhet, BTM) |
+| [Link Extractor](link-extractor/find_links.py) | Script that lists the external links of a web page | Python, requests |
 
 ## Fake News Detection
 
